@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <urlset
+          xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+                http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+     <url>
+                 <loc>index.html</loc>
+                 <lastmod>2026-09-18T11:09:07+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>legal-caselaw-research.html</loc>
+                 <lastmod>2026-09-18T11:09:07+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>free-westlaw-alternative.html</loc>
+                 <lastmod>2026-09-18T11:09:07+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>cheap-westlaw-alternative.html</loc>
+                 <lastmod>2026-09-18T11:09:07+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>free-lexis-alternative.html</loc>
+                 <lastmod>2026-09-18T11:09:07+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>cheap-lexis-alternative.html</loc>
+                 <lastmod>2026-09-18T11:09:07+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>case-citator.html</loc>
+                 <lastmod>2026-09-18T11:09:07+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>free-caselaw-citator.html</loc>
+                 <lastmod>2026-09-18T11:09:07+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>legal-research-websites.html</loc>
+                 <lastmod>2026-09-18T11:09:07+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>free-legal-research-websites.html</loc>
+                 <lastmod>2026-09-18T11:09:07+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>privacy-policy.html</loc>
+                 <lastmod>2026-09-18T11:09:07+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>feed.xml</loc>
+                 <lastmod>2026-09-18T11:09:07+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>sitemap.xml</loc>
+                 <lastmod>2026-09-18T11:09:07+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>sitemap.html</loc>
+                 <lastmod>2026-09-18T11:09:07+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url></urlset>
